@@ -73,7 +73,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: AppBar(
         title: BounceInDown(
-          child: const Text('Allen'),
+          child: const Text('Gojo'),
         ),
         leading: const Icon(Icons.menu),
         centerTitle: true,
@@ -102,7 +102,7 @@ class _HomePageState extends State<HomePage> {
                       shape: BoxShape.circle,
                       image: DecorationImage(
                         image: AssetImage(
-                          'assets/images/virtualAssistant.png',
+                          'assets/images/virtualAssistant.jpg',
                         ),
                       ),
                     ),
