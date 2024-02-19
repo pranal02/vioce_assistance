@@ -1,5 +1,5 @@
-import 'package:allen/home_page.dart';
-import 'package:allen/pallete.dart';
+import 'package:vioce_assistance/home_page.dart';
+import 'package:vioce_assistance/pallete.dart';
 import 'package:flutter/material.dart';
 
 void main() {
